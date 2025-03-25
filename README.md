@@ -30,7 +30,10 @@ My journey in Networking, Cloud and systems has led me to develop a passion for 
 | Network Traffic Monitoring and Attack Detection     
 | Incident Response Planning and Execution
 | Change managermet | RCA 
-| Case Management                
+| Case Management    
+| Customer service delivery
+| Technical Advisor
+| Network design | Power BI dashboard 
 
 ## Tools
 

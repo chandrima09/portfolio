@@ -23,14 +23,14 @@ My journey in Networking, Cloud and systems has led me to develop a passion for 
 
 </div> 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## Skill
+
+| Skill                                         
+|-----------------------------------------------     
+| Network Traffic Monitoring and Attack Detection     
+| Incident Response Planning and Execution
+| Change managermet | RCA 
+| Case Management                
 
 ## Tools
 
@@ -71,6 +71,16 @@ My journey in Networking, Cloud and systems has led me to develop a passion for 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+### Ticketing tool
+<div>
+    <img src="https://img.shields.io/badge/-ServiceNow-00A9E0?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+   <img src="https://img.shields.io/badge/-HP%20PPM-0096D6?&style=for-the-badge&logo=Hewlett%20Packard&logoColor=white" />
+   <img src="https://img.shields.io/badge/-SDM%2012-0078D4?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Clarify-0078D4?&style=for-the-badge&logo=Clarify&logoColor=white" />
+   
+
 </div>
 
 ## Certifications
@@ -138,5 +148,19 @@ Labs and BMC across North America.
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+### 120 Websites - Privacy and Security Assessment for Websites and Mobile Apps (live websites)
+**Objective**: Scanning security and privacy vulnerabilities of 120 websites using OpenWPM, SQLite, Mozilla Observatory, and SSL Labs on Linux (Oracle VM Virtual Box) environment.
+
+**Result**: 89% website good security & privacy - Mozilla Observatory and SSL Labs. After 5 crawls using OpenWPM, 37% of websites are vulnerable to cookies sync with third parties. If an adversary identifies a user by such a cookie, the user can be targeted
+
+### Vulnerability Analysis and Mitigation on an Open-Source website (Pen-testing performed on the live website)
+**Objective**: Perform Pentest (Information Gathering, Reconnaissance, Discovery, and Scanning, Vulnerability Assessment, Exploitation, Final Analysis and Review, Utilize the Testing Results) on an open-source website, track vulnerability, and provide mitigation. Tools: Clone python-based open-source website on KaliLinux's localhost (Gitclone). SAST - Bandit, GitLab, SQLMap. DAST - VEGA, Burp Suite, and Wireshark.
+
+**Vulnerability found**: Cross-Site Scripting attack was found leading to hijacking session ID due to malicious JavaScript.
+
+**Mitigation**: Changes in JavaScript referring Security Encoding Library and OWASP list of XSS prevention.
+
+### Diversity Check between Circuits within Cisco Network
+**Summary**: This was a part of an automation project. Designed an application which will check the 2 Circuit ID and display the result if there is a diversity. It will display the geographic location,CE(Customer Edge) router, PE(Provider Edge) router, Carrier Name and nearest POP location.
+
+**Tools**: Visual Basic, Advance Excel.

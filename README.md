@@ -25,7 +25,6 @@ My journey in Networking, Cloud and systems has led me to develop a passion for 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -38,6 +37,18 @@ My journey in Networking, Cloud and systems has led me to develop a passion for 
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### Designing Tool
+<div>
+    <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GNS3-00A9E0?&style=for-the-badge&logo=GNS3&logoColor=white" />
+</div>
+
+### Visualization Tool
+<div>
+    <img src="https://img.shields.io/badge/-Lucidchart-F2C800?&style=for-the-badge&logo=Lucidchart&logoColor=white" />
+    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </div>
 
 ### SIEM

@@ -82,6 +82,61 @@ My journey in Networking, Cloud and systems has led me to develop a passion for 
  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </div>
 
+## Work Experience
+
+# 1. Technical advisor –III - Sherweb (Client : Microsoft) | October 2021 – December 2024 
+<div> 
+    
+   - Identify and solve complex technical issues related to Microsoft Intune, defender and Azure.
+   - Acting as the first escalation level for technical issues by proactively and reactively answering questions
+of the clients and the team.
+   - Working with different configuration and compliance policies. Creating EDR, Antivirus, Firewall policies
+in Microsoft defender.
+   - Helping internal team to automate internal requirements using Power Automate and Microsoft Visio.
+   - Mobile Device management expert to manage corporate and personal devices.
+</div>
+
+# 2. Senior Engineer – Brillio (Client: Verizon) | February 2019- November 2019 | Clients:Reckitt Benckiser
+<div>
+  - Prepare utilization reports, RFC and explain that in the service review calls with a customer also check
+vulnerability using different tools. Involved in different automation projects using VBA, HTML.
+  - One of the core members/organizers of the internal Hackathon team, designed quizzes in HTML,
+javascript, Google forms.
+  - Advise customers for different issues viz bandwidth upgrade, site diversity check, change route,
+configuration issues.
+ - Add and delete user/reset password for a user in TACACS account and highlight (utilization check) tool.
+</div>
+
+# 3. Network Analyst, Accenture Solutions – India | September 2016- October 2018 | Client: Verizon
+<div>
+- Working as a Network Operation Analyst, providing network support for “Verizon Business“
+infrastructure and Datacenter management.
+- Analyzing issues through ETMS, Gen-e, Tyra, SNM, DSAT, Wireshark tool and providing bandwidth
+utilization report through “CA(Network Analyzer tool)“
+- Troubleshooting issues related to wireless network, switching, routing, Security devices ( Cisco ASA
+firewall)
+- Worked as a Quality POC, handling audits and update issues in Jira.
+</div>
+
+# 4. Network Engineer, OLA Cabs – India | September 2015- September 2016
+
+<div>
+- Analyzing issues through service now, Solarwinds, wireshark, cyberoam.
+ - Troubleshooting issues related to wireless network,switching,routing, Security devices(ASA
+firewall,Cyberoam).
+ - Packet capture in security devices(cisco ASA) and involve in change management, raise RFC.
+ - Change security policies in Cyberoam , create/ modify policies as per user requirements.
+</div>
+
+# Associate System Engineer, Atos | January 2013 to June 2015 | Clients: Siemens, New York Blood Center
+<div>
+   -  Configuring and Troubleshooting Data Network for various Siemens Operating Companies, NYBC, Forest
+Labs and BMC across North America.
+   - Working with Network Operation Center team and analyzing devices logs through Monitoring Applications (Orion, Spectrum, NCM & NetQoS) . 
+   - Accepting user-generated tickets through HP PPM, Clarify and SDM12 ticketing tools and troubleshooting issues related to switching, routing and wireless and configuration of switches and routers as per RFCs and coordinating with various onshore teams and engineers for incident resolution.
+   - Coordinating with Major ISPs like Orange, Verizon, AT&T etc for issues related to WAN links.
+</div>
+
 ## Projects
 - Detection Lab
 - SOC Automation Project

@@ -1,7 +1,7 @@
 # Hello, I'm Chandrima
 <a href="https://www.linkedin.com/in/chandrima--chakraborty/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
+# Introduction
 With over 8 years of hands-on experience in Networking, Security, Cloud, and Operations, I have led and executed the design and implementation of comprehensive configuration and compliance policies across various platforms. This includes developing and managing security policies for Microsoft Defender and Intune, such as EDR, antivirus, and firewall configurations, to ensure robust protection and compliance within organizational systems.
 
 I have extensive experience in configuring and maintaining a range of security policies, including compliance, conditional access, antivirus, and firewall settings. I have worked with Cisco firewalls and routers, gaining practical knowledge in securing network infrastructure. In addition, I have supported internal teams by automating business processes and workflows through tools like Power Automate and Microsoft Visio.
@@ -84,7 +84,7 @@ My journey in Networking, Cloud and systems has led me to develop a passion for 
 
 ## Work Experience
 
-# 1. Technical advisor –III - Sherweb (Client : Microsoft) | October 2021 – December 2024 
+### 1. Technical advisor –III - Sherweb (Client : Microsoft) | October 2021 – December 2024 
 <div> 
     
    - Identify and solve complex technical issues related to Microsoft Intune, defender and Azure.
@@ -96,7 +96,7 @@ in Microsoft defender.
    - Mobile Device management expert to manage corporate and personal devices.
 </div>
 
-# 2. Senior Engineer – Brillio (Client: Verizon) | February 2019- November 2019 | Clients:Reckitt Benckiser
+### 2. Senior Engineer – Brillio (Client: Verizon) | February 2019- November 2019 | Clients:Reckitt Benckiser
 <div>
   - Prepare utilization reports, RFC and explain that in the service review calls with a customer also check
 vulnerability using different tools. Involved in different automation projects using VBA, HTML.
@@ -107,7 +107,7 @@ configuration issues.
  - Add and delete user/reset password for a user in TACACS account and highlight (utilization check) tool.
 </div>
 
-# 3. Network Analyst, Accenture Solutions – India | September 2016- October 2018 | Client: Verizon
+### 3. Network Analyst, Accenture Solutions – India | September 2016- October 2018 | Client: Verizon
 <div>
 - Working as a Network Operation Analyst, providing network support for “Verizon Business“
 infrastructure and Datacenter management.
@@ -118,7 +118,7 @@ firewall)
 - Worked as a Quality POC, handling audits and update issues in Jira.
 </div>
 
-# 4. Network Engineer, OLA Cabs – India | September 2015- September 2016
+### 4. Network Engineer, OLA Cabs – India | September 2015- September 2016
 
 <div>
 - Analyzing issues through service now, Solarwinds, wireshark, cyberoam.
@@ -128,7 +128,7 @@ firewall,Cyberoam).
  - Change security policies in Cyberoam , create/ modify policies as per user requirements.
 </div>
 
-# Associate System Engineer, Atos | January 2013 to June 2015 | Clients: Siemens, New York Blood Center
+### Associate System Engineer, Atos | January 2013 to June 2015 | Clients: Siemens, New York Blood Center
 <div>
    -  Configuring and Troubleshooting Data Network for various Siemens Operating Companies, NYBC, Forest
 Labs and BMC across North America.

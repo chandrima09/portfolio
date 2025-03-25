@@ -1,7 +1,6 @@
 # Hello, I'm Chandrima
 <a href="https://www.linkedin.com/in/chandrima--chakraborty/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
 
 With over 8 years of hands-on experience in Networking, Security, Cloud, and Operations, I have led and executed the design and implementation of comprehensive configuration and compliance policies across various platforms. This includes developing and managing security policies for Microsoft Defender and Intune, such as EDR, antivirus, and firewall configurations, to ensure robust protection and compliance within organizational systems.
 
@@ -13,7 +12,16 @@ My experience spans multiple domains, including risk management, access manageme
 
 My journey in Networking, Cloud and systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC). 
 
-## Skills
+## Technology
+
+<div>
+<img src="https://img.shields.io/badge/-Intune-0078D4?&style=for-the-badge&logo=Microsoft%20Intune&logoColor=white" />
+<img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/-Endpoint%20Security-007ACC?&style=for-the-badge&logo=Endpoint%20Security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Information%20Security-007ACC?&style=for-the-badge&logo=Information%20Security&logoColor=white" />
+
+</div> 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -38,7 +46,14 @@ My journey in Networking, Cloud and systems has led me to develop a passion for 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### Operating System
+<div>
+   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 </div>
 
 ### Designing Tool

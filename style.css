@@ -315,4 +315,13 @@ transform: translate(200px,150px);
   font-size: 14px;
 }
 
+.container {
+  display: flex;
+  gap: 40px;
+}
+
+.left-column, .right-column {
+  flex: 1;
+}
+
 

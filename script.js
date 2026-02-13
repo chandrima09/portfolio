@@ -1,27 +1,5 @@
-const text = ["Cybersecurity Analyst", "SOC Analyst", "Cloud Security Enthusiast"];
-
-let count = 0;
-let index = 0;
-let currentText = "";
-let letter = "";
-
-function type() {
-
-if (count === text.length) {
-count = 0;
-}
-
-currentText = text[count];
-letter = currentText.slice(0, ++index);
-
-document.querySelector(".typing").textContent = letter;
-
-if (letter.length === currentText.length) {
-count++;
-index = 0;
-}
-
-setTimeout(type, 100);
-}
-
-type();
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<script>
+  AOS.init();
+</script>

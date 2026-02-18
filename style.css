@@ -1,3 +1,86 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #020617;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* SIDEBAR */
+
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 280px;
+  height: 100%;
+  background: #efede7;
+  color: #2d3142;
+  text-align: center;
+  padding-top: 30px;
+}
+
+/* PROFILE IMAGE */
+
+.profile-img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  border: 5px solid #2d3142;
+  object-fit: cover;
+}
+
+/* NAME */
+
+.name {
+  margin-top: 10px;
+  font-size: 22px;
+}
+
+/* SOCIAL */
+
+.social-icons {
+  margin-top: 15px;
+}
+
+.social-icons a {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  margin: 5px;
+  background: #2d3142;
+  color: white;
+  border-radius: 50%;
+  text-decoration: none;
+}
+
+/* MENU */
+
+.menu {
+  list-style: none;
+  padding: 0;
+  margin-top: 30px;
+  text-align: left;
+  padding-left: 40px;
+}
+
+.menu li {
+  margin: 15px 0;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #2d3142;
+  fontoezize: 18px;
+}
+
+/* MAIN CONTENT */
+
+.main-content {
+  margin-left: 280px;
+  padding: 40px;
+}
 * {
 margin: 0;
 padding: 0;
@@ -315,10 +398,6 @@ transform: translate(200px,150px);
   font-size: 14px;
 }
 
-.container {
-  display: flex;
-  gap: 40px;
-}
 
 .left-column, .right-column {
   flex: 1;

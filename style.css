@@ -324,4 +324,86 @@ transform: translate(200px,150px);
   flex: 1;
 }
 
+/* SIDEBAR */
 
+.sidebar {
+  position: fixed;
+  width: 280px;
+  height: 100vh;
+  background: #efede7;
+  text-align: center;
+  padding-top: 40px;
+  left: 0;
+  top: 0;
+}
+
+/* Profile image */
+
+.profile-img {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  border: 6px solid #2d3142;
+  object-fit: cover;
+}
+
+/* Name */
+
+.name {
+  margin-top: 15px;
+  color: #2d3142;
+}
+
+/* Social icons */
+
+.social-icons {
+  margin-top: 15px;
+}
+
+.social-icons a {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 45px;
+  height: 45px;
+  margin: 5px;
+  border-radius: 50%;
+  background: #2d3142;
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  background: #b22234;
+}
+
+/* Menu */
+
+.menu {
+  list-style: none;
+  margin-top: 40px;
+  text-align: left;
+  padding-left: 40px;
+}
+
+.menu li {
+  margin: 20px 0;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #2d3142;
+  font-size: 18px;
+}
+
+.menu i {
+  margin-right: 15px;
+}
+
+/* MAIN CONTENT */
+
+.main-content {
+  margin-left: 300px;
+  padding: 40px;
+}

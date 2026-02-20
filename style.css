@@ -8,8 +8,9 @@
 
 /* BODY */
 body {
-  background: #020617;
-     color: white;
+  background-color: #0f172a;
+  color: #e2e8f0;
+  margin: 0;
 }
 
 /* SIDEBAR */
@@ -24,6 +25,20 @@ body {
   padding: 40px 20px;
   z-index: 1000;
   overflow-y: auto;
+}
+
+/* MAIN CONTENT */
+main {
+  margin-left: 300px;
+  padding: 40px;
+  min-height: 100vh;
+}
+
+/* SECTIONS */
+section {
+  margin-left: 300px;
+  padding: 60px 40px;
+  min-height: 100vh;
 }
 
 /* PROFILE */
@@ -84,17 +99,6 @@ body {
   color: #0077b6;
 }
 
-/* MAIN CONTENT */
-.main-content {
-  margin-left: 300px;
-  padding: 50px 60px;
-  min-height: 100vh;
-}
-
-/* SECTIONS */
-section {
-  margin-bottom: 60px;
-}
 
 /* HEADINGS */
 h1, h2, h3 {

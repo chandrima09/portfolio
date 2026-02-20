@@ -27,17 +27,19 @@ body {
   overflow-y: auto;
 }
 
-/* MAIN CONTENT */
+/* MAIN CONTENT AREA */
 main {
-  margin-left: 300px;
-  padding: 40px;
+  margin-left: 300px;   /* same as sidebar width */
+  background-color: #1e293b;
   min-height: 100vh;
+  padding: 40px;
 }
 
-/* SECTIONS */
+/* If using sections directly */
 section {
   margin-left: 300px;
   padding: 60px 40px;
+  background-color: #1e293b;
   min-height: 100vh;
 }
 
